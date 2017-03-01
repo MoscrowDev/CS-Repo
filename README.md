@@ -61,74 +61,116 @@
 
 
 
-### Software Architecture
+#### Software Architecture
 
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+
 --------------------------------------------------------------------------
+
 ### Theory
 
 [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+
 --------------------------------------------------------------------------
+
 ### Software Engineering
 
 [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
+
 --------------------------------------------------------------------------
+
 ### Math (Probability)
 
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
+
 --------------------------------------------------------------------------
+
 ### Computer Architecture
 
 [Computer Architecture](https://www.coursera.org/course/comparch)|
+
 --------------------------------------------------------------------------
+
 ### Operating Systems
 [Operating Systems and System Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+
 --------------------------------------------------------------------------
+
 ### Computer Networks
 [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+
 --------------------------------------------------------------------------
+
 ### Databases
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+
 --------------------------------------------------------------------------
+
 ### Cloud Computing
 [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)
+
 --------------------------------------------------------------------------
+
 ### Math (Linear Algebra)
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
+
 --------------------------------------------------------------------------
+
 ### Cryptography
 [Cryptography I](https://www.coursera.org/course/crypto)
 [Cryptography II](https://www.coursera.org/course/crypto2)
+
 --------------------------------------------------------------------------
+
 ### Security
 [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+
 --------------------------------------------------------------------------
+
 ### Compilers
 [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+
 --------------------------------------------------------------------------
+
 ### Parallel Computing
 [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
+
 --------------------------------------------------------------------------
+
 ### UX Design
 [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+
 --------------------------------------------------------------------------
+
 ### Computer Graphics
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+
 --------------------------------------------------------------------------
+
 ### Artificial Intelligence
 [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
+
 --------------------------------------------------------------------------
+
 ### Machine Learning
 [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
 --------------------------------------------------------------------------
+
 ### Natural Language Processing
 [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+
 --------------------------------------------------------------------------
+
 ### Big Data
 [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)
+
 --------------------------------------------------------------------------
+
 ### Data Mining
 [Pattern Discovery in Data Mining](https://www.coursera.org/course/patterndiscovery)
+
 --------------------------------------------------------------------------
+
 ### Internet of Things
 [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
