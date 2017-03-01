@@ -1,14 +1,12 @@
-# CS-Repo
-Computer Science Studies
+### CIÊNCIA DA COMPUTAÇÃO
 
-### Introduction to Computer Science
+# Introduction to Computer Science
 
-Courses 
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)|
 
 ---------------------------------------------------------------------
 
-### Math (Mathematical Thinking, Calculus and Discrete Math)
+# Math (Mathematical Thinking, Calculus and Discrete Math)
 [Effective Thinking Through Mathematics](https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/info)
 
 
@@ -20,6 +18,6 @@ Courses
 ---------------------------------------------------------------------
 
 
-### Algorithms
+# Algorithms
 [Algorithms](https://pt.khanacademy.org/computing/computer-science/algorithms)
 
