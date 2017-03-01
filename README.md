@@ -8,7 +8,7 @@ Courses
 
 
 ### Math (Mathematical Thinking)
-[Effective Thinking Through Mathematics] https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/info
+[Effective Thinking Through Mathematics](https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/info)
 
 
 ### Math (Calculus and Discrete Math)
@@ -18,3 +18,8 @@ Courses
 
 ### Algorithms
 [Algorithms](https://pt.khanacademy.org/computing/computer-science/algorithms)
+
+
+Courses |
+:-- |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258)|
