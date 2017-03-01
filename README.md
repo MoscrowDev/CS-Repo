@@ -11,13 +11,14 @@ Courses
 [Effective Thinking Through Mathematics](https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/info)
 
 
-### Math (Calculus and Discrete Math)
-[Calculus One](https://pt.khanacademy.org/math/differential-calculus)
+### Math (Calculus and Discrete Math)|
+:-- |
+[Calculus One](https://pt.khanacademy.org/math/differential-calculus)|
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)|
 
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-
-### Algorithms
-[Algorithms](https://pt.khanacademy.org/computing/computer-science/algorithms)
+### Algorithms|
+:-- |
+[Algorithms](https://pt.khanacademy.org/computing/computer-science/algorithms)|
 
 
 Courses |
